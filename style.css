@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+body{
+    height: 100vh;
+    width: 100vw;
+}
+.parent{box-sizing: border-box;
+    border-style: none;
+    padding-left: 100px;
+    height: 980px;
+    width: 480px;
+    background-color: rgb(254, 246, 246);
+}
+.heady{display: flex;
+    font-size: large;
+   
+}
+.handle{
+    
+font-size: 19px; 
+font-weight: 300px;
+font-style:normal;
+display: flex;
+
+  
+
+}
+.number{
+font-size: 1.5rem;
+display: flex;
+font-weight: lighterz;
+}
+.post{
+    display: flex;
+}
+.homes{
+    color: rgb(188, 44, 44);
+    display: flex;
+font-size: xx-large;
+}
+.search{
+    display: flex   ;
+    font-size: xx-large;
+}
+.reels{ display: flex;
+    font-size: xx-large;
+   
+}
+.Shopping{display: flex;
+    font-size: xx-large;
+
+}
+.account{
+    display: flex;
+    font-size: xx-large;
+}
+.menu{
+    display: flex;
+    font-size: xx-large;
+    
+}
+.parent1{box-sizing: border-box;
+    border-style: none;
+    margin: 550px;
+    margin-top: -950px;
+  padding-top: 8px;
+  padding-left: 15px;
+    height: 50px;
+    width:240px;
+    background-color: rgb(240, 236, 236);
+    box-decoration-break: slice;
+}
+.sicon{
+   display: flex;
+   font-size: xx-large;
+}
+.parent2{box-sizing: border-box;
+    border-style: none;
+    margin: 800px;
+    margin-top: -600px;
+    padding-top: 8px;
+  padding-left: 15px;  
+    height: 60px;
+    width:870px;
+    background-color: white;
+}
+.like{
+    display: flex;
+    font-size: xx-large;
+}
+.parent3{box-sizing: border-box;
+    border-style: none;
+    margin:1630px;
+    margin-top: -852px;
+    padding-top: 0px;
+  padding-left: 15px;  
+    height: 40px;
+    width:220px;
+    background-color: rgb(221, 47, 20);
+}
+.add{
+    display: flex;
+    font-size: xx-large;
+}
+.parent4{box-sizing: border-box;
+    border-style: none;
+    font-size: larger;
+    margin:536px;
+    margin-top: -1590px;
+    padding-top: 0px;
+  padding-left: 15px;  
+    height: 330px;
+    width:1390px;
+    background-color: white;
+}
+.stories{
+    display: flex;
+    font-size: large;
+}
+.slogo{
+    position: relative;
+}
+.image{
+    position: absolute;
+margin: -200px;
+left: -200px;
+}
+.post{
+    display: flex;
+    font-size: large;
+}.parent5{box-sizing: border-box;
+    border-style: none;
+    font-size: larger;
+    margin:536px;
+    margin-top: -550px;
+    padding-top: 0px;
+  padding-left: 15px;  
+    height: 350px;
+    width:340px;
+        background-color: white;}
+.reel1{
+    display: flex;
+}
+.parent6{box-sizing: border-box;
+    border-style: none;
+    font-size: larger;
+    margin:910px;
+    margin-top: -885px;
+    padding-top: 0px;
+  padding-left: 15px;  
+    height: 230px;
+    width:340px;
+        background-color: white;
+    }
+    .parent7{box-sizing: border-box;
+        border-style: none;
+        font-size: larger;
+        margin:1310px;
+        margin-top: -1137px;
+        padding-top: 0px;
+      padding-left: 15px;  
+        height: 230px;
+        width:340px;
+            background-color: white;
+        }
+        .parent8{box-sizing: border-box;
+            border-style: none;
+            font-size: larger;
+            margin:536px;
+            margin-top: -1160px;
+            padding-top: 0px;
+          padding-left: 15px;  
+            height: 350px;
+            width:340px;
+                background-color: white;
+            }
+            .parent9{box-sizing: border-box;
+                border-style: none;
+                font-size: larger;
+                margin:910px;
+                margin-top: -985px;
+                padding-top: 0px;
+              padding-left: 15px;  
+                height: 230px;
+                width:340px;
+                    background-color: white;
+                }
+                .parent10{box-sizing: border-box;
+                    border-style: none;
+                    font-size: larger;
+                    margin:1310px;
+                    margin-top: -917px;
+                    padding-top: 0px;
+                  padding-left: 15px;  
+                    height: 230px;
+                    width:340px;
+                        background-color: white;
+                    }
+                    
